@@ -1,0 +1,11 @@
+{
+  "name": "gpt",
+  "version": "1.0.0",
+  "description": "A custom nodeJS implementation of GPT-2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Scott",
+  "license": "ISC"
+}
